@@ -2,8 +2,22 @@
   "name": "create-rts-fullstack",
   "version": "0.1.0",
   "description": "Initializer app for creating React/TypeScript full-stack environment",
+  "main": "lib/index",
   "repository": "http://github.com/VevoxDigital/create-rts-fullstack",
   "author": "Vevox Digital",
+  "contributors": [
+    "Matthew Struble <matt@vevox.io>"
+  ],
+  "scripts": {
+    "start": "node .",
+    "postinstall": "tsc"
+  },
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@types/inquirer": "^0.0.43",
+    "@types/node": "^10.9.2",
+    "inquirer": "^6.2.0",
+    "typescript": "^3.0.1"
+  }
 }

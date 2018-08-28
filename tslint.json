@@ -1,0 +1,6 @@
+{
+  "extends": "./cfg/tslint-generic.json",
+  "rules": {
+    "no-console": false
+  }
+}

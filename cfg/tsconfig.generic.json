@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "lib": [ "ES2016" ],
+    "moduleResolution": "node",
+    "newLine": "lf",
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "strict": true,
+    "target": "es5"
+  }
+}
