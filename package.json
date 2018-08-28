@@ -1,0 +1,9 @@
+{
+  "name": "create-rts-fullstack",
+  "version": "0.1.0",
+  "description": "Initializer app for creating React/TypeScript full-stack environment",
+  "repository": "http://github.com/VevoxDigital/create-rts-fullstack",
+  "author": "Vevox Digital",
+  "license": "MIT",
+  "private": false
+}
